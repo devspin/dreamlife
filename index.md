@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+Pushup standar adalah salah satu latihan paling sederhana yang dapat Anda lakukan untuk membangun kekuatan (meskipun melakukannya dengan benar bisa lebih sulit daripada yang Anda kira). Secara alami, banyak pria ingin beralih ke variasi yang lebih sulit dan ditargetkan segera setelah mereka dapat merangkai 10 repetisi. Salah satu variasi umum adalah push-diamond, yang mengharuskan Anda untuk membentuk bentuk eponymous di lantai dengan menyatukan tangan Anda di jari telunjuk dan jempol.
 
-You can use the [editor on GitHub](https://github.com/devspin/dreamlife/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Anda mungkin berpikir manuver ini terlihat lebih keren daripada push-up rata-rata Anda, dan sering diprogram menjadi latihan sebagai pilihan berat badan untuk menghancurkan otot-otot triceps Anda. Tetapi jika Anda masih mengguncang berlian, Anda (dan pelatih Anda) mungkin menempatkan diri Anda dalam posisi berisiko yang dapat Anda hindari dengan mudah.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Anda mungkin dapat menemukan konten yang sama dalam format lain, atau Anda mungkin dapat menemukan lebih banyak informasi di situs web mereka.
 
-### Markdown
+"Ya, banyak pelatih dan gym-bros merekomendasikan push-up berlian sebagai langkah berat badan terbaik untuk pertumbuhan triceps utama," kata direktur kebugaran Men's Health Ebenezer Samuel, C.S.C.S. "Masalahnya, kamu sebenarnya tidak perlu membentuk" berlian "dengan tanganmu untuk menstimulasi trisepmu. Faktanya, ketika kamu benar-benar memikirkannya, bagaimana mungkin bentuk tangan bisa mempengaruhi pertumbuhan trismu? "
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Menurut Samuel, tangan Anda tidak ada hubungannya dengan perekrutan otot. "Triceps Anda 'tanggung jawab utama pada pushup apa pun, apakah berlian atau tidak, adalah untuk memperpanjang (atau meluruskan) lengan Anda pada sendi siku," katanya. "Dan sejujurnya, posisi terbaik untuk melakukan itu bukanlah berlian. Itu sebenarnya akan menjadi sedikit lebih lebar dari posisi berlian, dengan tanganmu lebih sempit dari pundakmu." Dia berbicara tentang push-grip dekat, yang dapat Anda tarik hanya dengan menggerakkan posisi tangan Anda dari pushup standar dalam beberapa inci sehingga siku Anda "dilem" pada tubuh saat Anda bekerja.
 
-```markdown
-Syntax highlighted code block
+Pushup berlian mengundang Anda untuk memutar lubang siku Anda ke arah yang lain, posisi yang lebih nyaman ketika tangan Anda sangat sempit, tetapi melakukan itu juga menghilangkan ketegangan dari lat Anda dan menempatkan bahu Anda dalam rotasi internal, posisi yang mengundang cedera untuk sendi bahu Anda, kata Samuel. "Melebarkan tangan Anda sedikit saja membuat Anda tetap tegang di lat Anda dan menjaga bahu Anda dalam rotasi eksternal, sementara juga membiarkan Anda meledakkan roda Anda seperti yang Anda inginkan."
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/devspin/dreamlife/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Lain kali seseorang ingin menyukai latihan berat badan Anda, katakan pada mereka bahwa Anda ingin tetap dekat.
